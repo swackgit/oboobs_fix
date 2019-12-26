@@ -1,4 +1,4 @@
-<?php class zz_af_oboobs_fix extends Plugin {
+<?php class oboobs_fix extends Plugin {
         private $host;
         function about() {
                 return array(1.0,
